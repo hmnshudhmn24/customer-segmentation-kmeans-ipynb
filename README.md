@@ -18,6 +18,3 @@ This Jupyter Notebook performs customer segmentation using the K-Means clusterin
 
 ## Dataset Source
 [Mall Customers Dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/mall_customers.csv)
-
-## License
-Free for learning and experimentation.
